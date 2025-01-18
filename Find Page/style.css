@@ -1,0 +1,338 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Jersey+15&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+body{
+    margin: auto;
+    padding: 0;
+    font-family: "Montserrat", serif;
+    height: auto;
+    width: 100%;
+}
+
+header {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start; 
+    align-items: center;
+    padding: 10px 6px;
+    gap: 15px;
+    position: absolute;
+    width: 100%; 
+    height: 100px;
+    left: 0; 
+    top: 0;
+    background: #FFFFFF;
+    border-bottom: 0.12px solid #828282;
+  }
+  
+  
+
+
+.interns img{
+width: 32px;
+height: 31.46px;
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+
+.internmeets{
+width: 10px;
+height: 19px;
+font-family: "Montserrat", serif;
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 19px;
+color: #252525;
+flex: none;
+order: 1;
+flex-grow: 0;
+
+}
+
+.interns{
+display: flex;
+flex-direction: row;
+justify-content: row;
+align-items: center;
+margin-left: 20px;
+padding: 10px;
+gap: 10px;
+width: 155px;
+height: 51.46px;
+border-radius: 36px;
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+}
+
+.nav{
+width: 624px;
+height: 46px;
+flex: none;
+order: 1;
+flex-grow: 0;
+justify-content: space-between;
+align-items: center;
+display: flex;
+
+
+
+}
+
+.internship{
+display: flex;
+flex-direction: row;
+font-family: "Montserrat", serif;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+font-size: 16px;
+color: black;
+
+}
+
+.internship img{
+width: 16px;
+height: 16px;
+flex: none;
+order: 1;
+flex-grow: 0;
+
+}
+
+.jobs{
+display: flex;
+flex-direction: row;
+font-family: "Montserrat", serif;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+font-size: 16px;
+color: black;
+
+}
+
+.jobs img{
+width: 16px;
+height: 16px;
+flex: none;
+order: 1;
+flex-grow: 0;
+
+}
+
+.certification{
+display: flex;
+flex-direction: row;
+font-family: "Montserrat", serif;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+font-size: 16px;
+color: black;
+
+}
+
+.certification img{
+width: 16px;
+height: 16px;
+flex: none;
+order: 1;
+flex-grow: 0;
+
+}
+
+.training{
+    display: flex;
+    flex-direction: row;
+    font-family: "Montserrat", serif;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+    font-size: 16px;
+    color: black;  
+}
+
+.training img{
+    width: 16px;
+    height: 16px;
+    flex: none;
+    order: 1;
+    flex-grow: 0; 
+}
+
+.more{
+    display: flex;
+    flex-direction: row;
+    font-family: "Montserrat", serif;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+    font-size: 16px;
+    color: black;  
+}
+
+.more img{
+    width: 16px;
+    height: 16px;
+    flex: none;
+    order: 1;
+    flex-grow: 0; 
+}
+
+.search{
+width: 50px;
+height: 50px;
+display: flex;
+flex-direction: row;
+font-family: "Montserrat", serif;
+justify-content: center;
+align-items: center;
+padding: 10px 44px;
+gap: 10px;
+width: 200px;
+height: 30px;
+background: #F8F8F8;
+border-radius: 36px;
+flex: none;
+order: 2;
+flex-grow: 0;
+
+}
+
+.search img{
+width: 32px;
+height: 32px;
+flex: none;
+order: 0;
+flex-grow: 0;
+
+}
+
+.bookmarklogo{
+width: 32px;
+height: 32px;
+flex: none;
+order: 3;
+flex-grow: 0;
+
+}
+
+.bookmarklogo img{
+    width: 32px;
+    height: 32px;
+}
+
+.message{
+width: 32px;
+height: 32px;
+flex: none;
+order: 4;
+flex-grow: 0;
+
+}
+
+.message img{
+    width: 32px;
+    height: 32px;
+}
+
+.notification{
+width: 32px;
+height: 32px;
+flex: none;
+order: 4;
+flex-grow: 0;
+
+}
+
+.notification img{
+    width: 32px;
+    height: 32px;
+
+}
+
+.profile{
+
+height: 32px;
+width: 52px;
+display: flex;
+flex-direction: row;
+align-items: center;
+
+justify-content: center;
+flex: none;
+order: 6;
+background: #3F3F3F;
+box-shadow: inset 0px 1px 5.1px rgba(0, 0, 0, 0.52);
+border-radius: 68px;
+
+}
+
+.profile img{
+
+    width: 16px;
+    height: 16px;
+
+flex: none;
+
+order: 6;
+}
+
+.pic{
+    width: 28px;
+}
+
+.pic img {
+    width: 25px;
+    height: 25px;
+    display: flex;
+  }
+  
+
+.profile img{
+right: 140%;
+border-radius: 35px;  
+}
+
+
+.toptextmessage {
+    width: 100%;
+    height: 87px;
+    background: #F9F9F9;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 115%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.hometointernships {
+    display: flex;
+    flex-direction: row;
+    justify-content: row;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+    margin-top: 10px;
+    margin-left: 2rem;
+}
